@@ -7,7 +7,7 @@ My research aim was to determine the changes in the microbiome, host proteome an
 Data from the iHMP's study on T2D was used.
 
 
-The R scripts, input data and results for the proteomic DA and the metabolomic DA can be found in the 'Proteomic Differential Analysis' and 'Metabolomic Differential Analysis' folders, respectively.
+The R scripts, input data and results of the proteomic and the metabolomic differential analysis can be found in the 'Proteomic Differential Analysis' and 'Metabolomic Differential Analysis' folders, respectively.
 
 As for the metagenomic analysis and the metagenomic-metabolomic integrative analysis, the R script, input data and some of the results can be found in the 'Metagenomic + Integrative Analysis' folder.
 
